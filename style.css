@@ -987,7 +987,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 
 .custom-text {
   margin-left: 200px;
-  margin-bottom: 100px;
+  margin-bottom: 300px;
   position: relative;
   z-index: 9999; /* Make sure it has a higher z-index to appear on top */
   text-align: center; /* Center the text */
